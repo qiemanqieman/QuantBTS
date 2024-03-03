@@ -4,7 +4,7 @@
 #include <QtCharts>
 #include "ui_QuantBTS.h"
 
-#include "data.h"
+#include "Data.h"
 
 class QuantBTS : public QMainWindow
 {

@@ -4,7 +4,7 @@
 #include <QtSql/QSqlDatabase>
 #include <QtSql/QSqlQuery>
 
-#include "data.h"
+#include "Data.h"
 
 class StockDataBase
 {

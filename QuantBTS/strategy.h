@@ -2,7 +2,7 @@
 
 // 交易策略, 实现了三种简单的交易策略
 
-#include "data.h"
+#include "Data.h"
 #include <vector>
 
 // 抽象基类

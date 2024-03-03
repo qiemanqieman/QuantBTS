@@ -3,9 +3,9 @@
 // 回测框架设置
 #include <iostream>
 
-#include "data.h"
-#include "statistics.h"
-#include "strategy.h"
+#include "Data.h"
+#include "Statistics.h"
+#include "Strategy.h"
 #include <memory>
 
 class BackTest {

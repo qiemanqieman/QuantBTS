@@ -99,27 +99,27 @@
     </QtMoc>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="strategy.cpp" />
-    <ClInclude Include="strategy.h" />
+    <ClCompile Include="Strategy.cpp" />
+    <ClInclude Include="Strategy.h" />
     <None Include="README.md" />
     <None Include="stock.csv" />
     <None Include="stock_data.db" />
     <QtRcc Include="QuantBTS.qrc" />
     <QtUic Include="QuantBTS.ui" />
-    <ClCompile Include="backtest.cpp" />
-    <ClCompile Include="data.cpp" />
-    <ClCompile Include="database.cpp" />
+    <ClCompile Include="Backtest.cpp" />
+    <ClCompile Include="Data.cpp" />
+    <ClCompile Include="Database.cpp" />
     <ClCompile Include="QuantBTS.cpp" />
     <ClCompile Include="main.cpp" />
     <None Include="QuantBTS.ico" />
     <ResourceCompile Include="QuantBTS.rc" />
-    <ClInclude Include="backtest.h" />
-    <ClInclude Include="data.h" />
-    <ClInclude Include="database.h" />
+    <ClInclude Include="Backtest.h" />
+    <ClInclude Include="Data.h" />
+    <ClInclude Include="Database.h" />
     <QtMoc Include="QuantBTS.h" />
-    <ClInclude Include="statistics.h" />
+    <ClInclude Include="Statistics.h" />
     <ClInclude Include="stdafx.h" />
-    <ClCompile Include="statistics.cpp" />
+    <ClCompile Include="Statistics.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">Create</PrecompiledHeader>

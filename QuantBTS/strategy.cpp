@@ -1,2 +1,2 @@
 #include "stdafx.h"
-#include "strategy.h"
+#include "Strategy.h"

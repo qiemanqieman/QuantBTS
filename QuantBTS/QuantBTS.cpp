@@ -1,9 +1,9 @@
 #include "stdafx.h"
 #include "QuantBTS.h"
 
-#include "backtest.h"
-#include "database.h"
-#include "strategy.h"
+#include "Backtest.h"
+#include "Database.h"
+#include "Strategy.h"
 
 QString convertIntToDateStr(int dateInt) {
 	QString dateStr = QString::number(dateInt);
