@@ -92,6 +92,5 @@
   <ItemGroup>
     <None Include="stock.csv" />
     <None Include="stock_data.db" />
-    <None Include="README.md" />
   </ItemGroup>
 </Project>

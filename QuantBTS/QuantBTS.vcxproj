@@ -101,7 +101,6 @@
   <ItemGroup>
     <ClCompile Include="Strategy.cpp" />
     <ClInclude Include="Strategy.h" />
-    <None Include="README.md" />
     <None Include="stock.csv" />
     <None Include="stock_data.db" />
     <QtRcc Include="QuantBTS.qrc" />
